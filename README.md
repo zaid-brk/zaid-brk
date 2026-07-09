@@ -6,4 +6,4 @@ Self-driven and always motivated. I take initiative, then test out ideas as fast
 Mostly **Python**. I like to build with FastAPI, LangChain, and Streamlit. Some Next.js on the frontend.
 
 ### A bit more
-I learn best by shipping. Most of what I know came from building things that didn't work yet. Always chasing the next problem worth solving.
+I learn best by shipping and working on projects. Most of what I know came from building things that didn't work yet. Always chasing the next problem worth solving.
