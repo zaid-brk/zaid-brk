@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Zaid Barakat</title>
+  <desc id="description">Building useful software. AI tooling, developer tools, and native iOS.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101e2d"/>
+      <stop offset="1" stop-color="#172e3b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#c6e2ee" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="58" y="54" width="42" height="4" rx="2" fill="#60dfc1"/>
+  <text x="58" y="126" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Zaid Barakat</text>
+  <text x="60" y="174" fill="#b4c8d8" font-family="Arial, Helvetica, sans-serif" font-size="24">Building useful software.</text>
+  <g fill="#60dfc1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">
+    <text x="60" y="240">AI TOOLING</text>
+    <text x="205" y="240">DEVELOPER TOOLS</text>
+    <text x="428" y="240">NATIVE iOS</text>
+  </g>
+  <g fill="none" stroke="#60dfc1" stroke-width="1.5" stroke-opacity=".25">
+    <path d="M830 230L905 80L1038 135L1120 65M905 80L1090 250L1038 135L830 230"/>
+    <circle cx="1038" cy="135" r="85"/>
+    <circle cx="1038" cy="135" r="116" stroke-opacity=".12"/>
+  </g>
+  <g fill="#60dfc1">
+    <circle cx="830" cy="230" r="5"/>
+    <circle cx="905" cy="80" r="5"/>
+    <circle cx="1120" cy="65" r="5"/>
+  </g>
+  <circle cx="1038" cy="135" r="8" fill="#f5a46b"/>
+  <circle cx="1090" cy="250" r="5" fill="#f5a46b"/>
+</svg>
