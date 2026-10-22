@@ -8,7 +8,7 @@
 
 </div>
 
-I turn ideas into working software, then dig into the details that make it useful. My projects span repository Q&A, defensive AI security, interactive learning tools, and native iPhone apps. Python is my home base; lately, I've also been building with Swift and SwiftUI.
+I turn ideas into working software, and then dig into the details that make it useful. My projects span repository Q&A, defensive AI security, interactive learning tools, and native iPhone apps. Python is my home base; lately, I've also been building with Swift and SwiftUI.
 
 ## Latest build · Morning Reset
 
