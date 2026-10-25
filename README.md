@@ -15,7 +15,7 @@ I turn ideas into working software, and then dig into the details that make it u
 A native, offline iPhone app for building a more intentional morning routine. Guided tasks and timers pair with a step-by-step Shortcuts setup that redirects distracting apps during a routine.
 
 **Swift · SwiftUI · App Intents · iOS 17+**  
-<sub>Personal project · Tested on a real iPhone · Source currently private</sub>
+<sub>Personal project · Tested on a real iPhone</sub>
 
 ## Selected projects
 
