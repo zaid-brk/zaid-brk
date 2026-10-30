@@ -4,7 +4,7 @@
 
 **Computer Science student @ Texas A&M University**
 
-[LinkedIn](https://www.linkedin.com/in/zaidfbarakat) · [Projects](#selected-projects) · [Workflow](#how-i-work)
+[LinkedIn](https://www.linkedin.com/in/zaidfbarakat) · [Projects](#selected-projects)
 
 </div>
 
@@ -25,12 +25,6 @@ A native macOS app that recommends what to work on based on available time, ener
 | **[Injection Redteam](https://github.com/zaid-brk/injection-redteam)** | A defensive prompt-injection testing framework with **42 attacks across 6 categories**, attack-success benchmarking, and layered defenses.<br/><sub>Python · Defensive AI security</sub> |
 | **[Algorithm Steps](https://github.com/zaid-brk/algorithm-steps)** | An interactive algorithm tutor with line-by-line Python walkthroughs, variable snapshots, and a custom-problem tutor.<br/><sub>JavaScript · HTML · CSS</sub> |
 
-## How I work
-
-I use **Codex and Claude Code** in my AI-assisted development workflow to accelerate prototyping, debugging, and iteration. I stay involved in requirements, design decisions, and testing so that faster development leads to useful results.
-
-My projects include concrete ways to check the work: evaluation questions for repository Q&A, attack-and-defense benchmarks for AI security, and real-device testing for Morning Reset.
-
 ## Toolkit
 
 | Area | Tools |
@@ -39,7 +33,7 @@ My projects include concrete ways to check the work: evaluation questions for re
 | AI tooling & retrieval | LangChain · Qdrant |
 | Interfaces | Next.js · Streamlit · HTML · CSS |
 | Native iOS | Swift · SwiftUI · App Intents |
-| Development workflow | Codex · Claude Code · Git · GitHub |
+| Version control | Git · GitHub |
 
 ---
 
