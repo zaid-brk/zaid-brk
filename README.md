@@ -10,12 +10,12 @@
 
 I turn ideas into working software, and then dig into the details that make it useful. My projects span repository Q&A, defensive AI security, interactive learning tools, and native iPhone apps. Python is my home base; lately, I've also been building with Swift and SwiftUI.
 
-## Latest build · Next Up
+## Latest build · [Next Up](https://github.com/zaid-brk/nextup)
 
 A native macOS app that recommends what to work on based on available time, energy, deadlines, and weekly study and project targets. Includes task management, focus sessions, progress notes, and local storage.
 
 **Swift · SwiftUI · macOS 14+**  
-<sub>Personal project · Private repository</sub>
+<sub>Personal project</sub>
 
 ## Selected projects
 
