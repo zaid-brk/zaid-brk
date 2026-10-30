@@ -10,12 +10,12 @@
 
 I turn ideas into working software, and then dig into the details that make it useful. My projects span repository Q&A, defensive AI security, interactive learning tools, and native iPhone apps. Python is my home base; lately, I've also been building with Swift and SwiftUI.
 
-## Latest build · Morning Reset
+## Latest build · Next Up
 
-A native, offline iPhone app for building a more intentional morning routine. Guided tasks and timers pair with a step-by-step Shortcuts setup that redirects distracting apps during a routine.
+A native macOS app that recommends what to work on based on available time, energy, deadlines, and weekly study and project targets. Includes task management, focus sessions, progress notes, and local storage.
 
-**Swift · SwiftUI · App Intents · iOS 17+**  
-<sub>Personal project · Tested on a real iPhone</sub>
+**Swift · SwiftUI · macOS 14+**  
+<sub>Personal project · Private repository</sub>
 
 ## Selected projects
 
