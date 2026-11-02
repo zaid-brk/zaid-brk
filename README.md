@@ -23,7 +23,7 @@ A native macOS app that recommends what to work on based on available time, ener
 | :--- | :--- |
 | **[Repo QA Agent](https://github.com/zaid-brk/repo-qa-agent)** | Ask questions about a GitHub repository and get answers with source citations. Combines retrieval with a multi-hop agent and a **50-question evaluation harness**.<br/><sub>Python · FastAPI · LangChain · Qdrant · Next.js</sub> |
 | **[Injection Redteam](https://github.com/zaid-brk/injection-redteam)** | A defensive prompt-injection testing framework with **42 attacks across 6 categories**, attack-success benchmarking, and layered defenses.<br/><sub>Python · Defensive AI security</sub> |
-| **[Algorithm Steps](https://github.com/zaid-brk/algorithm-steps)** | An interactive algorithm tutor with line-by-line Python walkthroughs, variable snapshots, and a custom-problem tutor.<br/><sub>JavaScript · HTML · CSS</sub> |
+| **[Catalog Search](https://github.com/zaid-brk/catalog-search)** | A C++ vector search engine with exact and IVF search, metadata filtering, and benchmarks for recall and latency.<br/><sub>C++ · Python · FastAPI · TypeScript</sub> |
 
 ## Toolkit
 
