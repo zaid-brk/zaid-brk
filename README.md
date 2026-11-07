@@ -31,11 +31,9 @@ A native macOS app that recommends what to work on based on available time, ener
 | :--- | :--- |
 | Languages | C++20 · Python · TypeScript · JavaScript · Swift |
 | Backend & data | FastAPI · SQLAlchemy · SQLite |
-| AI tooling & retrieval | LangChain · LangGraph · Qdrant |
-| Web interfaces | Next.js · Vite · Streamlit · HTML · CSS |
-| Native iOS & macOS | SwiftUI · App Intents |
-| Build & testing | CMake · CTest · Swift Package Manager |
-| Version control | Git · GitHub |
+| AI & retrieval | LangChain · LangGraph · Qdrant |
+| Web apps | Next.js · Streamlit |
+| Native apps | SwiftUI · App Intents |
 
 ---
 
