@@ -10,11 +10,11 @@
 
 I love to turn ideas into working software, and then dig into the details that make it useful. My projects span repository Q&A, defensive AI security, interactive learning tools, and native iPhone apps. 
 
-## Latest build · [Next Up](https://github.com/zaid-brk/nextup)
+## Latest build · [Catalog Search](https://github.com/zaid-brk/catalog-search)
 
-A native macOS app that recommends what to work on based on available time, energy, deadlines, and weekly study and project targets. Includes task management, focus sessions, progress notes, and local storage.
+A C++ semantic product search engine with exact and IVF search, metadata filtering, and an automatic query planner. Includes a web demo and reproducible recall and latency benchmarks on real product catalogs.
 
-**Swift · SwiftUI · macOS 14+**  
+**C++20 · Python · FastAPI · TypeScript**  
 <sub>Personal project</sub>
 
 ## Selected projects
