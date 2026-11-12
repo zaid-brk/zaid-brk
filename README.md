@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Zaid Barakat — building useful software with AI tooling, developer tools, and native iOS" width="100%" />
-
 **Computer Science student @ Texas A&M University**
 
 [LinkedIn](https://www.linkedin.com/in/zaidfbarakat) · [Projects](#selected-projects)
